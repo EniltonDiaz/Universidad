@@ -1,0 +1,7 @@
+body{
+	font-family:"tahoma";
+	font-size: 16xp;
+}
+#centrado {
+	text-aling: center;
+}
