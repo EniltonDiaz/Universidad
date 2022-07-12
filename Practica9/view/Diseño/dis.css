@@ -1,0 +1,17 @@
+body {
+    background-image: url(../imagenes/estadio.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 223%;
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: blue;
+}
+
+a:active {
+    color: rgb(130, 130, 177);
+}
